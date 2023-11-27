@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svey/ld-redux.git"
+    "url": "git+https://github.com/dexterns88/ld-redux.git"
   },
   "keywords": [
     "launch",
@@ -22,12 +22,12 @@
     "flags",
     "toggles"
   ],
-  "author": "Marcus Svehlak <marcus@svey.io> (http://svey.io)",
+  "author": "Marcus Svehlak",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/svey/ld-redux/issues"
+    "url": "https://github.com/dexterns88/ld-redux/issues"
   },
-  "homepage": "https://github.com/svey/ld-redux#readme",
+  "homepage": "https://github.com/dexterns88/ld-redux#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
